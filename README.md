@@ -1,5 +1,7 @@
 # Theme Toggle (Light/Dark Mode) for Bootstrap 5
 
+![Example](https://github.com/roby27/bootstrap-5-light-dark-mode-switcher/blob/main/example.jpg?raw=true "Example")
+
 ## Usage
 
 Declare data-bs-theme in HTML tag
