@@ -26,7 +26,6 @@ toggleThemeElement.addEventListener("click", function () {
     toggleThemeElement.innerHTML = '<i class="bi bi-moon-fill"></i>';
   }
 });
-
 ```
 
 Add toggle button to your html
